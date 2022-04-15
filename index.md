@@ -25,7 +25,24 @@ BACK IN 24 DAYS
 
 **Bold** and _Italic_ and `Code` text
 
+[Link](url) and ![Syntax highlighted code block
+
+# Header 1
+BACK IN 24 DAYS
+## Header 2
+BACK IN 24 DAYS
+### Header 3
+BACK IN 24 DAYS
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
 [Link](url) and ![Image](src)
+](src)
 ```
 
 For more details see [help desk](https://youtu.be/67-dlg858s4).
