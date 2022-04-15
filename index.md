@@ -12,12 +12,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # chaNNEL LINK
-https://youtube.com/channel/UCIXBY-6XQTR-L4YWyoqfQ-g
+[LINK]https://youtube.com/channel/UCIXBY-6XQTR-L4YWyoqfQ-g
 ## channel link
-https://youtube.com/channel/UCIXBY-6XQTR-L4YWyoqfQ-g
+[LINK]https://youtube.com/channel/UCIXBY-6XQTR-L4YWyoqfQ-g
 
 ### CHANNEL LINK 
-https://youtube.com/channel/UCIXBY-6XQTR-L4YWyoqfQ-g
+[LINK]https://youtube.com/channel/UCIXBY-6XQTR-L4YWyoqfQ-g
 - Bulleted
 - List
 
